@@ -1,0 +1,66 @@
+{% block header %}
+<head>
+    <meta charset="UTF-8">
+    <title>Allitebook</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="/uploads/favicon.ico"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link href="/css/style.css" rel="stylesheet">
+</head>
+
+<header id="masthead" class="site-header" role="banner">
+
+    <div class="nav-inner">
+        <nav id="site-navigation" class="main-navigation clearfix" role="navigation">
+            <ul id="menu-allitebooks-com" class="site-nav">
+                <li><a title="All IT eBooks" href="/">All IT eBooks</a></li>
+                <li class=" dropbtn"><a title="All Categories" class="sf-with-ul">Categories</a>
+                    <ul class="dropdown-content sub-menu">
+                        {% for item in data.category %}
+                        <li class="dropbtn-1 "><a href="/category/{{ item.id }}" class="sf-with-ul">{{ item.name }}</a>
+                            <ul class=" sub-menu-1">
+                                {% for category_book in item.cat_child %}
+                                <li class="menu-item "><a href="/category/{{ category_book.id }}">{{ category_book.name }}</a></li>
+                                {% endfor %}
+                            </ul>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </li>
+                </li>
+            </ul>
+
+        </nav>
+        <!-- END #site-navigation -->
+        <div class="site-search">
+            <form role="search" method="get" id="searchform" class="searchform" action="/search">
+                <input type="text" value="" name="name" id="s">
+                <span class="search-icon"><i class="glyphicon glyphicon-search"></i></span>
+                <input type="submit" id="searchsubmit" value="">
+            </form>
+        </div>
+        <div>
+            {% if login %}
+                 <h3 style="color: whitesmoke">Welcome {{user}} {{id}}</h3>
+                <div style="display: none">
+                    <a  href="/login">Login</a>
+                    <a href="/register">Register</a>
+                </div>
+                <div class="thoat" >
+                    <a href="/logout">Dang xuat</a>
+                </div>
+            {% else %}
+            <div style="display: block">
+                <a  href="/login">Login</a>
+                <a href="/register">Register</a>
+            </div>
+            {% endif %}
+        </div>
+
+        <!-- END .search-form -->
+    </div>
+    <!-- END .nav-inner -->
+</header>
+{% endblock %}

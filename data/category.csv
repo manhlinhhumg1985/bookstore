@@ -1,0 +1,22 @@
+"id","name","parent"
+1,"Hardware & DIY",0
+2,"Game Programming",0
+3,"Security",0
+4,"Marketing & SEO",0
+5,"Software",0
+6,"Programming",0
+7,"Web Development",0
+8,"Graphics & Design",0
+9,"Datebases",0
+10,"Networking & Cloud Computing",0
+11,"Operating Systems",0
+12,"Certification",0
+13,"Administration",0
+14,"Enterprise",0
+15,"Computers & Technology",0
+16,".NET",6
+17,"HTML,HTML5,CSS",7
+18,"CMS",7
+19,"C #",6
+20,"C & C++",6
+21,"APS.NET",7

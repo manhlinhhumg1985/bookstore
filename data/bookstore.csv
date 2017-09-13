@@ -1,0 +1,746 @@
+"id","author","id_category","isnb","description","link_download","file_format","file_size","images","language","name","pages","read_online","year"
+1,"Adam Freeman",16,"143024254X","
+                    <h3>Book Description:</h3>
+						<p>ASP.NET 4.5 remains Microsoft’s preferred technology for creating dynamic websites, providing developers with unrivaled power and flexibility. Pro ASP.NET 4.5 in C# is the most complete reference to ASP.NET that you will find. This comprehensively revised fifth edition will teach you everything you need to know in order to create well-designed ASP.NET websites. Beginning with core concepts the book progresses steadily through key professional skills. You’ll be shown how to query databases in detail, consider the myriad applications of XML, and step through all the considerations you need to be aware of when securing your site from intruders. Finally, you’ll consider advanced topics such as using client-side validation, jQuery and Ajax. By the time you have read this book you will have learned all the skills you need to use ASP.NET 4.5 with confidence. This book is aimed at developers with a basic understanding on the .NET Framework who want to learn how to use it in a professional environment. Migrating readers without this foundation would be well served by reading Beginning ASP.NET 4.5 in C#, also by Apress, before tackling this book.</p>
+											","http://file.allitebooks.com/20170325/Pro%20ASP%20.NET%204.5%20in%20C,%205th%20Edition.pdf","PDF","23.6 MB","http://www.allitebooks.com/wp-content/uploads/2017/03/Pro-ASP-.NET-4.5-in-C-5th-Edition.jpg","English","Pro ASP .NET 4.5 in C#, 5th Edition",1187,"http://www.allitebooks.com/read/index.php?id=27037",2013
+2,"Julian Templeman",16,"1590595726","
+                    <h3>Book Description:</h3>
+						<p>* Steers reader through the spectrum of ASP.NET web programming concepts.</p>
+<p>* Developers and programmers can learn language and theory simultaneously.</p>
+<p>* Professional ASP.NET developers and wannabes can master the core techniques to develop good coding practices to enhance their long-term skill set.</p>
+											","http://file.allitebooks.com/20170325/Beginning%20ASP.NET%202.0%20in%20C%202005,%202nd%20Edition.pdf","PDF","16.3 MB","http://www.allitebooks.com/wp-content/uploads/2017/03/Beginning-ASP.NET-2.0-in-C-2005.jpg","English","Beginning ASP.NET 2.0 in C# 2005, 2nd Edition",1184,"http://www.allitebooks.com/read/index.php?id=27034",2006
+3,"Brenton J.W. Blawat",16,"1782173552","
+                    <h3>Book Description:</h3>
+						<p>PowerShell is quickly becoming the de facto standard for scripting in Microsoft Windows environments. It enables the automation of otherwise complex tasks, providing interactivity between different products.</p>
+<p>Beginning with PowerShell fundamentals, this book progresses by imparting the advanced skills required to master automation. You will learn how to deal with data and operations on various data types and structures, and see the techniques of data manipulation and parsing. Moving on, you will learn about the usage of regular expressions and comparison operators. Error handling techniques will enable you to identify and eliminate errors. This book also provides best practices for scripting and techniques to reduce the amount of code required to complete tasks.</p>
+<p>By the end of this book, you will be able to create a variety of PowerShell scripts and successfully automate your environment and become the go-to person.</p>
+<p>Who This Book Is For</p>
+<p>If you are a system administrator who wants to become an expert in controlling and automating your Windows environment, then this book is for you. Prior knowledge of PowerShell’s core elements and applications is required for this book.</p>
+<p>What You Will Learn</p>
+<ul>
+<li>Utilize variables, hashes, and arrays to store data</li>
+<li>Parse and manipulate different data types</li>
+<li>Optimize code through the use of functions, switches, and looping structures</li>
+<li>Create and implement regular expressions in PowerShell scripts</li>
+<li>Leverage session-based remote management</li>
+<li>Manage files, folders, and registries through the use of PowerShell</li>
+<li>Discover the best practices to manage Microsoft systems</li>
+</ul>
+											","http://file.allitebooks.com/20170318/Mastering%20Windows%20PowerShell%20Scripting.pdf","PDF","3.19 MB","http://www.allitebooks.com/wp-content/uploads/2017/03/Mastering-Windows-PowerShell-Scripting-400x494.jpg","English","Mastering Windows PowerShell Scripting",220,"http://www.allitebooks.com/read/index.php?id=26960",2015
+4,"Ovais Mehboob Ahmed Khan",16,"1785886460","
+                    <h3>Book Description:</h3>
+						<p>If you want to improve responsiveness or the UX in your ASP.NET applications, JavaScript can be a life saver. In an age where server-side operations have shifted to the client, being able to handle JavaScript with confidence and fluency is vital for ASP.NET developers. There’s no point trying to fight it, so start learning with this book. Make sure your projects exceed user expectations.</p>
+<p>Begin by getting stuck into the basics of JavaScript, and explore the language in the context of ASP.NET Core. You’ll then find out how to put the principles into practice, as you learn how to develop a basic ASP.NET application using Angular 2 and TypeScript. You’ll also develop essential skills required to develop responsive apps, with a little help from AJAX, ensuring that you’re building projects that can be easily accessed across different devices.</p>
+<p>With guidance on Node.js and some neat techniques to test and debug a range of JavaScript libraries in Visual Studio, you’ll soon be well on your way to combining JavaScript with ASP.NET in a way that’s capable of meeting the challenges of modern web development head-on.</p>
+<p>What you will learn</p>
+<ul>
+<li>Get to grips with the basic to advanced concepts of JavaScript</li>
+<li>Learn how to use JavaScript on server side using Node.js</li>
+<li>Develop web applications in ASP.NET using JavaScript</li>
+<li>Get to know with industry-wide best practices and design patterns that provide maintainability and scalability</li>
+<li>Build an ASP.NET application using Angular 2 with TypeScript and Web API</li>
+<li>Explore WinJS and see how to use mobile capabilities from web applications</li>
+<li>Use JavaScript to develop scalable ASP.NET applications</li>
+<li>See how to test and debug JavaScript</li>
+</ul>
+											","http://file.allitebooks.com/20170125/JavaScript%20for%20.NET%20Developers.pdf","PDF","6.1 MB","http://www.allitebooks.com/wp-content/uploads/2017/01/JavaScript-for-.NET-Developers-400x493.jpg","English","JavaScript for .NET Developers",447,"http://www.allitebooks.com/read/index.php?id=26289",2016
+5,"Curt Christianson",16,"1847193617","
+                    <h3>Book Description:</h3>
+						<p>This step-by-step tutorial shows the reader how to build an ASP.NET Content Management System from scratch. You will first learn the basics of a content management system and how to set up the tools you need to build your site. Then, you start building your site, setting up users, and adding content to your site. You will be able to edit the content of your site and also manage its layout all by yourself. Towards the end, you will learn to manage your site from a single point and will have all the information you need to extend your site to make it more powerful. Filled with plenty of code snippets and screen images to keep you on track as well as numerous additional samples to show you all the exciting alternatives to explore, this book prepares you for all the challenges you can face in development. This book is for beginner to intermediate ASP.NET users who have managed to learn Visual Web Developer and want to take on their first real-world application. It will help those who have used SQL Server Express, completed a few sample projects, and now wish to explore a Content Management System.</p>
+											","http://file.allitebooks.com/20170117/ASP.NET%203.5%20CMS%20Development.pdf","PDF","10.4 MB","http://www.allitebooks.com/wp-content/uploads/2017/01/ASP.NET-3.5-CMS-Development.jpg","English","ASP.NET 3.5 CMS Development",284,"http://www.allitebooks.com/read/index.php?id=26226",2009
+6,"James Singleton",16,"1785881892","
+                    <h3>Book Description:</h3>
+						<p>ASP.NET Core is the new, open source, and cross-platform, web-application framework from Microsoft. It’s a stripped down version of ASP.NET that’s lightweight and fast. This book will show you how to make your web apps deliver high performance when using it.</p>
+<p>We’ll address many performance improvement techniques from both a general web standpoint and from a C#, ASP.NET Core, and .NET Core perspective. This includes delving into the latest frameworks and demonstrating software design patterns that improve performance.</p>
+<p>We will highlight common performance pitfalls, which can often occur unnoticed on developer workstations, along with strategies to detect and resolve these issues early. By understanding and addressing challenges upfront, you can avoid nasty surprises when it comes to deployment time.</p>
+<p>We will introduce performance improvements along with the trade-offs that they entail. We will strike a balance between premature optimization and inefficient code by taking a scientific- and evidence-based approach. We’ll remain pragmatic by focusing on the big problems.</p>
+<p>By reading this book, you’ll learn what problems can occur when web applications are deployed at scale and know how to avoid or mitigate these issues. You’ll gain experience of how to write high-performance applications without having to learn about issues the hard way.</p>
+<p>You’ll see what’s new in ASP.NET Core, why it’s been rebuilt from the ground up, and what this means for performance. You will understand how you can now develop on and deploy to Windows, Mac OS X, and Linux using cross-platform tools, such as Visual Studio Code.</p>
+<p>What You Will Learn</p>
+<ul>
+<li>Why performance matters and when it should be considered</li>
+<li>Use different tools to measure performance</li>
+<li>Spot common performance issues, their root causes, and how to easily mitigate them</li>
+<li>Improve performance at the network level and I/O level, and how to optimize the application as a whole</li>
+<li>Work with caching and message queuing tools, including patterns and strategies</li>
+<li>Discover the dark side of performance improvement and find out how to manage complexity</li>
+<li>Monitor performance as part of continuous integration and regression testing</li>
+<li>Assess and solve performance issues with other advanced technologies</li>
+</ul>
+											","http://file.allitebooks.com/20161227/ASP.NET%20Core%201.0%20High%20Performance.pdf","PDF","6.8 MB","http://www.allitebooks.com/wp-content/uploads/2016/12/ASP.NET-Core-1.0-High-Performance-400x493.jpg","English","ASP.NET Core 1.0 High Performance",330,"http://www.allitebooks.com/read/index.php?id=25906",2016
+7,"Pieter van der Westhuizen",16,"1785889478","
+                    <h3>Book Description:</h3>
+						<p>One of the leading open source frontend frameworks, Bootstrap has undergone a significant change and introduced several features that make designing compelling, next-generation UIs much simpler. Integrating Bootstrap with ASP.NET’s powerful components can further enhance its capabilities.</p>
+<p>This book guides you through the process of creating an ASP.NET MVC website from scratch using Bootstrap. You will learn about the various Bootstrap components as well as techniques to include them in your own projects. The book includes practical examples to show you how to use open source plugins with Bootstrap and ASP.NET MVC and guides you through building an ASP.NET MVC website using Bootstrap, utilizing layout and user interface components. At the end of this book, you will find some valuable tips and tricks to help you get the most out of your Bootstrap- and ASP.NET MVC-integrated website.</p>
+<p>What You Will Learn</p>
+<ul>
+<li>Create a new ASP.Net MVC 6 project that uses Bootstrap for its styling and learn how to include external libraries using the new package managers</li>
+<li>Learn to use the various Bootstrap CSS and HTML elements, and how to use the new Bootstrap 4 grid layout system with ASP.Net MVC</li>
+<li>Explore the different input groups and implement alerts, progress bars, and badges</li>
+<li>Explore JavaScript components by illustrating and walking through the process of using JavaScript/JQuery to add interactivity to Twitter Bootstrap components</li>
+<li>Build your own ASP.Net MVC helpers and tag helpers to reduce the amount of HTML needed to generate Bootstrap elements in your projects</li>
+<li>Convert a Bootstrap HTML template into a usable ASP.Net MVC project</li>
+<li>Use the jQuery DataTables plugin with Bootstrap and ASP.Net MVC</li>
+<li>Learn to include and use the TwitterBootstrapMVC library in an ASP.Net MVC project</li>
+</ul>
+											","http://file.allitebooks.com/20161012/Bootstrap%20for%20ASP.NET%20MVC,%202nd%20Edition.pdf","PDF","5.2 MB","http://www.allitebooks.com/wp-content/uploads/2016/10/Bootstrap-for-ASP.NET-MVC-2nd-Edition-400x493.jpg","English","Bootstrap for ASP.NET MVC, 2nd Edition",265,"http://www.allitebooks.com/read/index.php?id=24443",2017
+8,"Joydip Kanjilal",16,"1847193951","
+                    <h3>Book Description:</h3>
+						<p>This book shows you how to get the most from the ASP.NET data presentation controls to easily display and manage complex data in your web applications. This book takes you through the most important tasks for working with the ASP.NET data presentation controls. Packed with example code and clear explanations, this book will make you a master of these controls in no time.This book is for ASP.NET developers who want to display or manage data in ASP.NET applications. The code examples are in C#.</p>
+											","http://file.allitebooks.com/20161124/ASP.NET%20Data%20Presentation%20Controls%20Essentials.pdf","PDF","7.6 MB","http://www.allitebooks.com/wp-content/uploads/1480/3658378fcacaee4.jpg","English","ASP.NET Data Presentation Controls Essentials",256,"http://www.allitebooks.com/read/index.php?id=25125",2007
+9,"Lee Naylor",16,"1484221362","
+                    <h3>Book Description:</h3>
+						<div>This book will teach readers how to build and deploy a fully working example retail website using Microsoft ASP.NET MVC and Entity Framework technologies and recommendations. This book contains several solutions to real world issues that developers will frequently encounter.<p></p>
+</div>
+<div></div>
+<div>Whether you are a novice developer or an experienced .NET developer wishing to learn more about MVC and Entity Framework, author Lee Naylor will teach you how to develop a detailed database driven example website using Microsoft ASP.NET and Entity Framework Code First with fully explained code examples including:<p></p>
+</div>
+<div></div>
+<div>• Filtering and Searching Related Data using Linq</div>
+<div>• Using code first migrations to automatically update the database plus seeding data from code</div>
+<div>• How to use Visual Studio Scaffolding views and controllers</div>
+<div>• Manage CRUD operations including model binding as recommended by Microsoft and dealing with cascading deletions correctly</div>
+<div>• Input and data validation using Attributes</div>
+<div>• Sorting and paging through data and routing for friendly URL formats</div>
+<div>• Authorization and Authentication using Microsoft Identity v2 by making use of Microsoft example code including correct use of redirection after login and registration</div>
+<div>• Advanced techniques including managing data concurrency conflicts and using two database contexts</div>
+<div>• Asynchronous database access and paging</div>
+<div>• Azure deployment using Code First Migrations, remote debugging and viewing/editing your remote data</div>
+<div>• CSS Styling including animation and media queries<p></p>
+</div>
+<div></div>
+<div>What You Will Learn:<p></p>
+</div>
+<div></div>
+<div>• Get up and running quickly with ASP.NET MVC and Entity Framework building a complex web site to display and manage several related entities</div>
+<div>• How to integrate Identity code into a project</div>
+<div>• Advanced topics including: Asynchronous database access and managing data conflicts</div>
+<div>• Working with&nbsp;Microsoft&nbsp;Azure including remote debugging and database access</div>
+<div>• CSS skills including animations and media queries for use with tablet or mobile/cell phone devices</div>
+											","http://file.allitebooks.com/20160928/ASP.NET%20MVC%20with%20Entity%20Framework%20and%20CSS.pdf","PDF","30.6 MB","http://www.allitebooks.com/wp-content/uploads/2016/09/ASP.NET-MVC-with-Entity-Framework-and-CSS.jpg","English","ASP.NET MVC with Entity Framework and CSS",608,"http://www.allitebooks.com/read/index.php?id=24210",2016
+10,"Jamie Dixon",16,"1785888404","
+                    <h3>Book Description:</h3>
+						<p>.NET is one of the widely used platforms for developing applications. With the meteoric rise of machine learning, developers are now keen on finding out how to make their .NET applications smarter using machine learning.</p>
+<p>Mastering .NET Machine Learning is packed with real-world examples to explain how to easily use machine learning techniques in your business applications. You will begin with an introduction to F# and prepare yourselves for machine learning using the .NET Framework. You will then learn how to write a simple linear regression model and, forming a base with the regression model, you will start using machine learning libraries available in .NET Framework such as Math.NET, numl, and Accord.NET with examples. Next, you are going to take a deep dive into obtaining, cleaning, and organizing your data. You will learn the implementation of k-means and PCA using Accord.NET and numl libraries. You will be using Neural Networks, AzureML, and Accord.NET to transform your application into a hybrid scientific application. You will also see how to deal with very large datasets using MBrace and deploy machine learning models to IoT devices so that the machine can learn and adapt on the fly.</p>
+<p>What You Will Learn</p>
+<ul>
+<li>Write your own machine learning applications and experiments using the latest .NET Framework, including .NET Core 1.0</li>
+<li>Set up your business application to start using machine learning</li>
+<li>Accurately predict the future of your data using simple, multiple, and logistic regressions</li>
+<li>Discover hidden patterns using decision trees</li>
+<li>Acquire, prepare, and combine datasets to drive insights</li>
+<li>Optimize business throughput using Bayes Classifier</li>
+<li>Discover (more) hidden patterns using k-NN and Naive Bayes</li>
+<li>Discover (even more) hidden patterns using k-means and PCA</li>
+<li>Use Neural Networks to improve business decision making while using the latest ASP.NET technologies</li>
+</ul>
+											","http://file.allitebooks.com/20160908/Mastering%20.NET%20Machine%20Learning.pdf","PDF","10.5 MB","http://www.allitebooks.com/wp-content/uploads/2016/09/Mastering-.NET-Machine-Learning-400x493.jpg","English","Mastering .NET Machine Learning",465,"http://www.allitebooks.com/read/index.php?id=23907",2016
+11,"Matt Fisher",17,"1849693323","
+                    <h3>Book Description:</h3>
+						<p>As the support for HTML5 within modern web browsers grows, the appeal of HTML5 development, especially for Flash developers, is at an all-time high. From 3D interactive multi-user content to high definition video streaming, HTML5 can deliver it all, to almost all modern web browsers, desktops, and mobile platforms.</p>
+<p>HTML5 for Flash Developers is a practical, targeted guide for developers with previous experience in developing applications in Flash who would like to add HTML5 development to their skill set. By understanding key aspects that make HTML5 development different from Flash you will be able to integrate your current skill set into the HTML5 development paradigm.</p>
+<p>Starting with identifying the key technologies that make up the HTML5 development stack and how they are utilized to create HTML5 content, HTML5 for Flash Developers will cover the traditional HTML5 application development flow chapter by chapter, while covering many other common tools that are regularly used in HTML5 today.</p>
+<p>In addition to understanding and writing dependency-free HTML5 code, you will also learn how to build your HTML5 applications on top of popular libraries and frameworks such as jQuery and CreateJS. This book covers how to prepare all of your content and media for integration into your HTML5 application using applications such as the Miro Video Converter or Adobe Photoshop. You will learn ways to not only continue to use Adobe Flash in your HTML5 application content preparation flow, but also how to port your existing Flash content right over to HTML5.</p>
+<p>Once you understand what it takes to build HTML5 content, you will finish up by learning how to debug, optimize, and prepare your content for release on the Web</p>
+<p>What you will learn from this book</p>
+<ul>
+<li>Understand and create HTML5 content utilizing skills from your Flash development experience</li>
+<li>Integrate popular external open source libraries and frameworks</li>
+<li>Create interactive HTML5 content using CSS and JavaScript</li>
+<li>Prepare and integrate multimedia and understand browser playback limitations</li>
+<li>Locate and utilize HTML5 development tools and editors</li>
+<li>Optimize your content for fast delivery over the Web</li>
+</ul>
+											","http://file.allitebooks.com/20170227/HTML5%20for%20Flash%20Developers.pdf","PDF","30.7 MB","http://www.allitebooks.com/wp-content/uploads/2017/02/HTML5-for-Flash-Developers-400x493.jpg","English","HTML5 for Flash Developers",323,"http://www.allitebooks.com/read/index.php?id=26657",2013
+12,"Mark J. Collins",17,"1484224620","
+                    <h3>Book Description:</h3>
+						<div>
+<p>Get ahead in HTML5, including markup, styling, and scripting, with many practical examples and best practice insights. You’ll quickly understand HTML5 markup elements and when to use them, and then apply the latest CSS3 features to create amazing web pages.</p>
+<p>Pro HTML5 with CSS, JavaScript, and Multimedia teaches&nbsp;the fundamentals of client-side scripting and covers the immense functionality available with HTML5. Learn to use JavaScript to create web applications that are dynamic and interactive, and add advanced features, including audio, video, SVG, and drag and drop capabilities. Using practical hands-on demonstrations you will access a larger set of technologies to create more diverse and powerful websites and applications.</p>
+</div>
+<div></div>
+<div>What You Will Learn:<p></p>
+</div>
+<div>
+<ul>
+<li>How, and when, to use all the HTML5 markup tags</li>
+<li>Use CSS3 features to simplify website design</li>
+<li>Master JavaScript fundamentals and advanced features</li>
+<li>Use SVG and the canvas tag to incorporate graphics</li>
+<li>Leverage the native browser support for Geolocation, IndexedDB, and drag and drop capabilities</li>
+</ul>
+</div>
+<div>Who This Book Is For:<p></p>
+</div>
+<div></div>
+<p>Web developers and designers who want to increase their HTML5 skills to create modern interactive websites</p>
+											","http://file.allitebooks.com/20170401/Pro%20HTML5%20with%20CSS,%20JavaScript,%20and%20Multimedia.pdf","PDF","14.3 MB","http://www.allitebooks.com/wp-content/uploads/2017/04/Pro-HTML5-with-CSS-JavaScript-and-Multimedia.jpg","English","Pro HTML5 with CSS, JavaScript, and Multimedia",560,"http://www.allitebooks.com/read/index.php?id=27072",2017
+13,"Don Cowan",17,"1118385357","
+                    <h3>Book Description:</h3>
+						<p>Create eye-popping visuals on the fly with HTML5 Canvas</p>
+<p>Now part of the HTML5 standard tool, Canvas gives programmers the ability to add images, animation, and sound to mobile and regular websites on the fly, in JavaScript, without needing any third-party tool or player. This practical For Dummies book clearly shows you how to get the most out of Canvas. It presents information in a friendly, non-intimidating way and helps you get started with the Canvas tag, create 2D drawings and images, add video and audio, build a basic game framework, weave spellbinding animation, and more.</p>
+<p>If you want to learn how to use HTML5 Canvas, this easy-to-follow guide is just the ticket.</p>
+<ul>
+<li>Shows web programmers, developers, and designers at beginner and intermediate HTML5 and JavaScript levels how to use the powerful HTML5 Canvas tag</li>
+<li>Helps you design and add images, animation, sound, and more to mobile and regular websites, without using any third-party tools or players</li>
+<li>Covers 2D drawings, text, and bitmap images; video and audio; how to build a basic game framework on Canvas; adding animation; and more</li>
+<li>Includes a JavaScript crash course</li>
+</ul>
+<p>Get started using HTML5 Canvas right away with HTML5 Canvas For Dummies.</p>
+											","http://file.allitebooks.com/20170209/HTML5%20Canvas%20For%20Dummies.pdf","PDF","21.5 MB","http://www.allitebooks.com/wp-content/uploads/2017/02/HTML5-Canvas-For-Dummies-400x499.jpg","English","HTML5 Canvas For Dummies",384,"http://www.allitebooks.com/read/index.php?id=26481",2012
+14,"Craig Cook",17,"1590597478","
+                    <h3>Book Description:</h3>
+						<p>Why another HTML book? Web development has changed with the advent of web standards, rendering older books obsolete. The code and techniques in this book are strictly standards compliant, so readers’ web pages will work properly in most web browsers, be lean and small in file size, accessible to web users with disabilities, and easily located by search engines such as Google. The book uses practical examples to show how to structure data correctly using (X)HTML, the basics of styling it and laying it out using Cascading Style Sheets (CSS,) and adding dynamic behavior to it using JavaScript – all as quickly as possible.</p>
+											","http://file.allitebooks.com/20170130/Beginning%20HTML%20with%20CSS%20and%20XHTML.pdf","PDF","9.2 MB","http://www.allitebooks.com/wp-content/uploads/2017/01/Beginning-HTML-with-CSS-and-XHTML.jpg","English","Beginning HTML with CSS and XHTML",452,"http://www.allitebooks.com/read/index.php?id=26343",2007
+15,"Piotr Sikora",17,"1785880942","
+                    <h3>Book Description:</h3>
+						<p>CSS is the preferred technology to design modern web pages. Although CSS is often perceived as a simple language, applying modern styles to web pages with CSS and maintaining the code for larger websites can be quite tricky.</p>
+<p>We will take you right from understanding CSS to designing high-quality web pages in CSS3. We’ll quickly take you through CSS3’s features, and show you how to resolve common issues so you can build your basic framework. Finally, you will learn about code architecture and CSS methodologies used in scalable apps and you’ll explore the various new features of CSS3, such as FlexBox, to help you create the most modern layout methodologies. By the end of the book, you will be a master at creating pure CSS web pages and will know sophisticated web design techniques, giving you an edge over other web designers.</p>
+<p>What you will learn</p>
+<ul>
+<li>Familiarize yourself with the concepts of CSS and the SASS pre-processor</li>
+<li>Get familiar with selectors to build better CSS code</li>
+<li>Gain knowledge on the common issues with CSS and discover the solutions</li>
+<li>Write scalable code using various CSS methodologies and optimization techniques</li>
+<li>Create a simple and reusable framework based on SASS</li>
+<li>Explore the various tools involved in CSS code creation</li>
+</ul>
+											","http://file.allitebooks.com/20170125/Professional%20CSS3.pdf","PDF","6.2 MB","http://www.allitebooks.com/wp-content/uploads/2017/01/Professional-CSS3-400x493.jpg","English","Professional CSS3",463,"http://www.allitebooks.com/read/index.php?id=26299",2016
+16,"Eric A. Meyer",17,"B01EGQ1QI8","
+                    <h3>Book Description:</h3>
+						<p>CSS has had a layout-shaped hole at its center since the beginning. Designers have bent features such as float and clear to help fill that hole, but nothing has quite done the job. Now that’s about to change. With this concise guide, you’ll learn how to use CSS grid layout, a generalized system that lets you lay out pieces of your design independent of their document source order and with full awareness of the overall design.</p>
+<p>Short and deep, this book is an excerpt from the upcoming fourth edition of CSS: The Definitive Guide. When you purchase either the print or the ebook edition of Grid Layout in CSS, you’ll receive a discount on the entire Definitive Guide once it’s released. Why wait? Learn how to make your web pages come alive today.</p>
+<ul>
+<li>Explore the differences between grid boxes and block containers</li>
+<li>Create block-level grids, inline grids, and even nest grids inside grids</li>
+<li>Learn best practices for attaching elements to your layout, using explicitly defined grid lines or grid area</li>
+<li>Understand how the implicit grid automatically adjusts for oversized elements</li>
+<li>Create gutters between grid elements, and align and justify individual items</li>
+</ul>
+<p>Eric A. Meyer is an author, speaker, blogger, sometime teacher, and co-founder of An Event Apart. He’s a two-decade veteran of the Web and web standards, a past member of the W3C’s Cascading Style Sheets Working Group, and the author of O’Reilly’s CSS: The Definitive Guide.</p>
+											","http://file.allitebooks.com/20161222/Grid%20Layout%20in%20CSS.pdf","PDF","5.4 MB","http://www.allitebooks.com/wp-content/uploads/2016/12/Grid-Layout-in-CSS-381x500.jpg","English","Grid Layout in CSS",83,"http://www.allitebooks.com/read/index.php?id=25794",2016
+17,"Aravind Shenoy",17,"1849519943","
+                    <h3>Book Description:</h3>
+						<p>HTML5 and CSS3 are the way for the future. Prior to HTML5 and CSS3, it was difficult to design complicated animations and transformations. With the advent of HTML5 and CSS3, web design has become much simpler, and the new features that are now available help us design complex web pages with ease. These cool new features will be the standard for the future; hence, it is imperative to learn about them now.</p>
+<p>HTML5 and CSS3 Transition, Transformation, and Animation will help you take advantage of the real power behind HTML5 and CSS3 and will give you a good grounding for using it in your own web pages. Each and every code sample and concept is explained in detail, and you will be provided with all the information you need to take your web pages to the next level – before all your competitors do!</p>
+<p>The book starts by covering the basic concepts of HTML5 and CSS3 such as semantics, Microdata, and the Flexbox model. You will then quickly progress to intermediate concepts such as form elements and some exciting features with JavaScript APIs. The code samples provided in this book will give you a solid base by which you will then be able to understand, write, and execute your own HTML/CSS projects with transition and animations.</p>
+<p>Instead of wading through loads of theory, the concepts in this book are explained in a practical manner using code samples to demonstrate the new features of HTML5 and CSS3. The code samples are such that you can copy the code (the entire code is written instead of code snippets) and execute it for better understanding. Transition, transformation, and animation are also explained in a lucid manner, and there is a gradual increase in the difficulty level throughout the book.</p>
+<p>By the end of the book, you will be thoroughly acquainted with HTML5 and CSS3, enabling you to design a web page using the included code samples with ease.</p>
+<p>What you will learn from this book</p>
+<ul>
+<li>Use Microdata for SEO purposes and learn the semantics of HTML5</li>
+<li>Learn about the new HTML5 form elements</li>
+<li>Work with drag-and-drop in HTML5</li>
+<li>Discover how geolocation works in different browsers</li>
+<li>Master HTML5 canvas theory with lots of code samples</li>
+<li>Understand how offline web application works and learn about web storage concepts</li>
+<li>Get acquainted with the nuances of CSS3 transition</li>
+<li>Create complex web pages using advanced animations</li>
+</ul>
+											","http://file.allitebooks.com/20161110/HTML5%20and%20CSS3%20Transition,%20Transformation,%20and%20Animation.pdf","PDF","2.1 MB","http://www.allitebooks.com/wp-content/uploads/2016/11/HTML5-and-CSS3-Transition-Transformation-and-Animation-400x493.jpg","English","HTML5 and CSS3 Transition, Transformation, and Animation",136,"http://www.allitebooks.com/read/index.php?id=24891",2013
+19,"Alex Libby",17,"1785885898","
+                    <h3>Book Description:</h3>
+						<p>PostCSS is a tool that has quickly emerged as the future of existing preprocessors such as SASS and Less, mainly because of its power, speed, and ease of use. This comprehensive guide offers in-depth guidance on incorporating cutting-edge styles into your web page and at the same time maintaining the performance and maintainability of your code.</p>
+<p>The book will show how you can take advantage of PostCSS to simplify the entire process of stylesheet authoring. It covers various techniques to add dynamic and modern styling features to your web pages. As the book progresses, you will learn how to make CSS code more maintainable by taking advantage of the modular architecture of PostCSS. By the end of this book, you would have mastered the art of adding modern CSS effects to web pages by authoring high performing, maintainable stylesheets.</p>
+<p>What you will learn</p>
+<ul>
+<li>Add mixin and variable support to PostCSS along with conditional support</li>
+<li>Explore the different ways of nesting code such as BEM and standard nesting within PostCSS</li>
+<li>Optimize media queries built with PostCSS to get the best performance</li>
+<li>Add dynamic styling elements such as images, fonts, grids, and SVG and retina support using existing preprocessors as well as PostCSS</li>
+<li>Get familiar with using plugins, and extend PostCSS with the API</li>
+<li>Build a fully working custom preprocessor and test it on different sites such as WordPress</li>
+<li>Write a custom syntax in PostCSS while still using pre-built syntaxes such as Less, SASS, or Stylus</li>
+<li>Provide support for future CSS such as CSS4 using current CSS3 classes</li>
+</ul>
+											","http://file.allitebooks.com/20160821/Mastering%20PostCSS%20for%20Web%20Design.pdf","PDF","5.2 MB","http://www.allitebooks.com/wp-content/uploads/2016/08/Mastering-PostCSS-for-Web-Design-400x493.jpg","English","Mastering PostCSS for Web Design",414,"http://www.allitebooks.com/read/index.php?id=23485",2016
+20,"Andy Budd",17,"1430258632","
+                    <h3>Book Description:</h3>
+						<p>Fully updated to the latest CSS modules, make the journey to CSS mastery as simple and painless as possible. This book dives into advanced aspects of CSS-based design, such as responsive design, modular CSS, and CSS typography. Through a series of easy-to-follow tutorials, you will learn practical CSS techniques you can immediately start using in your daily work.</p>
+<p>CSS Mastery: Advanced Web Standards Solutions is your indispensable guide to cutting-edge CSS development―this book demystifies the secrets of CSS. While CSS is a relatively simple technology to learn, it is a difficult one to master. When you first start developing sites using CSS, you will come across all kinds of infuriating browser bugs and inconsistencies. It sometimes feels like there are a million and one different techniques to master, spread across a bewildering array of websites. The range of possibilities seems endless and makes for a steep and daunting learning curve.</p>
+<p>While most books concentrate on basic skills, this one is different, assuming that you already know the basics and why you should be using CSS in your work, and concentrating mainly on advanced techniques. This new edition covers all of the CSS fundamentals such as the importance of meaningful markup, how to structure and maintain your code, and how the CSS layout model really works.</p>
+<p>This new edition contains:</p>
+<ul>
+<li>New examples and updated browser support information</li>
+<li>Full coverage of modular CSS and responsive design</li>
+<li>Essential information on CSS typography and layout control</li>
+</ul>
+<p>What You’ll Learn</p>
+<ul>
+<li>The best practice concepts in CSS design</li>
+<li>The most important (and tricky) parts of CSS</li>
+<li>Identify and fix the most common CSS problems</li>
+<li>How to deal with the most common bugs</li>
+<li>Completely up to date browser support information</li>
+<li>The latest information on CSS features and support</li>
+</ul>
+											","http://file.allitebooks.com/20160818/CSS%20Mastery,%203rd%20Edition.pdf","PDF","21.8 MB","http://www.allitebooks.com/wp-content/uploads/2016/08/CSS-Mastery-3rd-Edition.jpg","English","CSS Mastery, 3rd Edition",428,"http://www.allitebooks.com/read/index.php?id=23398",2013
+21,"Todd Tomlinson",18,"1484202546","
+                    <h3>Book Description:</h3>
+						<div>Successfully architect a Drupal 8 website that scales to meet project requirements of any size and scope.</div>
+<div></div>
+<div>Starting with a one-chapter review of Drupal basics, you’ll dive into deeper topics including software development processes, architecting a Drupal site, scaling Drupal, working effectively with themes, and more. In addition to a thorough discussion of custom module development and how to develop modules as building blocks, you’ll also review many common ways of integrating Drupal with other 3rd party systems.</div>
+<div></div>
+<p>Building and maintaining an enterprise-ready Drupal website presents a unique set of challenges and complexities. From development processes and content management to deployments, version control and more, all aspects of Drupal development are impacted when two or more developers are on a project. If you are involved in a Drupal project that requires frequent updates and long-term support from a team of developers, system administrators, and end-users, Enterprise Drupal 8 Development is for you.</p>
+<p>Whether you’re an experienced Drupal developer looking to expand your skills, a systems administrator managing a Drupal project, or a PHP developer new to Drupal, Enterprise Drupal 8 Development will give you the knowledge and inspiration you need to manage large and complex projects.</p>
+<p>What You’ll Learn</p>
+<ul>
+<li>Architect Drupal for development teams and apply best practices for large Drupal projects</li>
+<li>Integrate 3rd party applications with Drupal</li>
+<li>Manage content, code, and configuration across multiple staging environments</li>
+<li>Build a consistent user experience for administrators and content creators</li>
+</ul>
+<div></div>
+<p>Who This Book Is For</p>
+<p>The primary audience is intermediate to advanced Drupal developers who are working on large-scale Drupal projects and advanced PHP developers new to Drupal</p>
+<p>The secondary audience is IT Professionals such as Systems Administrators managing Drupal projects</p>
+											","http://file.allitebooks.com/20170523/Enterprise%20Drupal%208%20Development.pdf","PDF","9.1 MB","http://www.allitebooks.com/wp-content/uploads/2017/05/Enterprise-Drupal-8-Development.jpg","English","Enterprise Drupal 8 Development",309,"http://www.allitebooks.com/read/index.php?id=27491",2017
+22,"Jennifer Hodgdon",18,"1491911468","
+                    <h3>Book Description:</h3>
+						<p>If you’re a web programmer, your experiences have taught you certain lessons—and only some of them apply well to Drupal. Drupal has its own set of programming principles that require a different approach, and many programmers make mistakes when relying on skills they’ve used for other projects. This book will show you which programming techniques you can use—and which you should avoid—when building web applications with this popular content management framework.</p>
+<p>Updated to cover both Drupal 7 and Drupal 8, the guidelines in this book demonstrate which programming practices conform to the “Drupal way” and which don’t. The book also serves as an excellent guide for Drupal 7 programmers looking to make the transition to Drupal 8.</p>
+<ul>
+<li>Get an overview of Drupal, including Drupal core and add-on modules and themes</li>
+<li>Learn Drupal’s basic programming principles, such as the ability to customize behavior and output with hooks</li>
+<li>Compare Drupal 7 and Drupal 8 programming methods, APIs, and concepts</li>
+<li>Discover common Drupal programming mistakes—and why hacking is one of them</li>
+<li>Explore specific areas where you can put your programming skills to work</li>
+<li>Learn about the new object-oriented Drupal 8 API, including plugins and services</li>
+</ul>
+											","http://file.allitebooks.com/20170320/Programmer's%20Guide%20to%20Drupal,%202nd%20Edition.pdf","PDF","2.1 MB","http://www.allitebooks.com/wp-content/uploads/2017/03/Programmers-Guide-to-Drupal-2nd-Edition.jpg","English","Programmer’s Guide to Drupal, 2nd Edition",238,"http://www.allitebooks.com/read/index.php?id=26991",2015
+23,"Viktor Khliupko",18,"1484224566","
+                    <h3>Book Description:</h3>
+						<div>
+<div>Learn how Magento 1 works and how to manage it via&nbsp;easy and advanced techniques.&nbsp;Magento continues to be a top choice for eCommerce solutions in small and large businesses, and many systems are still running on Magento 1.x. This book is specifically designed for these versions.<p></p>
+</div>
+<div></div>
+<div>Aimed at entrepreneurs, marketers, and other experts interested in eCommerce,&nbsp;Magento 1 DIY&nbsp;shows you how to set up and configure Magento 1 for your own project.<p></p>
+</div>
+<div></div>
+<p>You will also learn how to use extensions, templates and enterprise features guided by&nbsp;easy-to-understand, real-world examples.</p>
+</div>
+<div></div>
+<div>What You Will Learn:<p></p>
+</div>
+<div>
+<ul>
+<li>Set up, configure, use templates, designs and extensions</li>
+<li>Optimize security and performance</li>
+<li>Integrate with PIM, ERP, CRM, and other enterprise systems</li>
+</ul>
+</div>
+<div>Who This Book Is For:<p></p>
+</div>
+<div>
+<div>Anyone who wants to learn the basics of all aspects of Magento. You do not need any previous experience with Magento.</div>
+</div>
+											","http://file.allitebooks.com/20161218/Magento%201%20DIY.pdf","PDF","5.9 MB","http://www.allitebooks.com/wp-content/uploads/2016/12/Magento-1-DIY.jpg","English","Magento 1 DIY",240,"http://www.allitebooks.com/read/index.php?id=25732",2017
+24,"Tracy Smith",18,"1849511128","
+                    <h3>Book Description:</h3>
+						<div>In today’s global society, online collaboration has gained tremendous importance as businesses look for ways to share ideas and collaborate easily. Open Atrium is a powerful and flexible Drupal installation that provides intranet solutions to businesses and organizations for sharing ideas. It is used to create intranets where co-workers or teams can collaborate easily. But Open Atrium is filled with so many powerful features that you may need some help to use it to its full potential. Open Atrium is also a viable alternative to SharePoint.</div>
+<div>Drupal Intranets with Open Atrium unlocks the power of Open Atrium and guides you through real-world examples of an Open Atrium intranet. Examples and screenshots are used throughout the book so that you can follow along on your Open Atrium installation. The examples walk through setting up your site, user administration, implementing core features, and maintaining your intranet site.<p></p>
+</div>
+<div>This book starts off with explaining how to set up a web server on a Windows or Mac computer and install Drupal with the Open Atrium distribution. After installing Open Atrium you will learn how to add and maintain users. The book also covers some exciting topics such as the different “spaces” or “workgroup” micro-sites that can be created to match your organization’s structure. Reading each of these sections, you will understand and become familiar with managing the Open Atrium interface. Once you comprehend the Open Atrium interface, you will learn how to create a blog, document library, and issue tracker for each group’s dashboard or site page. The book covers everything from editing a single piece of content to arranging the layout of that content on each page.<p></p>
+</div>
+<div>By the end of this book, you should be able to establish your own intranet site for your organization or workgroup using the Open Atrium Drupal distribution.A how-to guide with examples and screenshots to guide you through every step of creating an intranet with Open Atrium.<p></p>
+</div>
+<div></div>
+<div>What you will learn from this book<p></p>
+<ul>
+<li>Add all the major features of an intranet to your site with Open Atrium</li>
+<li>Get to grips with Open Atrium’s interface and its features</li>
+<li>Install Open Atrium and customize it for your organization or company</li>
+<li>Create sub-sites (spaces) for each of your teams, departments, or workgroups</li>
+<li>Manage users and create a member directory</li>
+<li>Add core features packaged with Open Atrium such as Blog, Calendar, and Issue Tracker</li>
+<li>Extend the functionality of Open Atrium by adding pluggable features developed by the Drupal Open Source community</li>
+<li>Maintain your intranet by performing routine maintenance tasks</li>
+<li>Analyze your site’s logs and reports to ensure that it is running in tip-top condition</li>
+</ul>
+</div>
+											","http://file.allitebooks.com/20161215/Drupal%20Intranets%20with%20Open%20Atrium.pdf","PDF","15.6 MB","http://www.allitebooks.com/wp-content/uploads/2016/12/Drupal-Intranets-with-Open-Atrium-400x494.jpg","English","Drupal Intranets with Open Atrium",304,"http://www.allitebooks.com/read/index.php?id=25639",2011
+25,"Rakhitha Nimesh Ratnayake",18,"1782174397","
+                    <h3>Book Description:</h3>
+						<p>WordPress is one of the most rapidly expanding markets on the Web. Learning how to build complex and scalable web applications will give you the ability and knowledge to step into the future of WordPress.</p>
+<p>This book is a practical, scenario-based guide to expanding the power of the WordPress core modules to develop modular and maintainable real-world applications from scratch. This book will consistently emphasize adapting WordPress features into web applications. It will walk you through the advanced usages of existing features such as access controlling, database handling, custom post types, pluggable plugins, routing, translation, caching, and many more while you build the backend of a portfolio management application.</p>
+<p>After reading this book, you will have the ability to develop powerful web applications rapidly within limited time frames.</p>
+<p>What You Will Learn</p>
+<ul>
+<li>Develop extendable plugins with the use of WordPress features in core modules</li>
+<li>Develop pluggable modules to extend the core features of WordPress as independent modules</li>
+<li>Follow WordPress coding standards to develop reusable and maintainable code</li>
+<li>Build and customize themes beyond conventional web layouts</li>
+<li>Explore the power of core database tables and understand the limitations when designing database tables for large applications</li>
+<li>Integrate open source modules into WordPress applications to keep up with the latest open source technologies</li>
+<li>Customize the WordPress admin section and themes to create the look and feel of a typical web application</li>
+</ul>
+											","http://file.allitebooks.com/20161103/WordPress%20Web%20Application%20Development,%20Second%20Edition.pdf","PDF","5.1 MB","http://www.allitebooks.com/wp-content/uploads/2016/11/WordPress-Web-Application-Development-Second-Edition-400x494.jpg","English","WordPress Web Application Development, Second Edition",430,"http://www.allitebooks.com/read/index.php?id=24768",2016
+26,"Matt Glaman",18,"1785881477","
+                    <h3>Book Description:</h3>
+						<p>Began as a message board, Drupal today is open source software maintained and developed by a community of over 1,000,000 users and developers. Drupal is used by numerous local businesses to global corporations and diverse organizations all across the globe. With Drupal 8’s recent release and the exciting features it brings, this book will be your go-to guide to experimenting with all of these features through helpful recipes.</p>
+<p>We’ll start by showing you how to customize and configure the Drupal environment as per your requirements, as well as how to install third-party libraries and then use them in the Drupal environment. Then we will move on to creating blocks and custom modules with the help of libraries. We will show you to use the latest mobile-first feature of Drupal 8, which will help you make your apps responsive across all the major platforms. This book will also show you how to incorporate multilingual facilities in your sites, use web services and third-party plugins with your applications from inside Drupal 8, and test and deploy your apps</p>
+<p>What you will learn</p>
+<ul>
+<li>Extend Drupal through contributed or custom modules and themes</li>
+<li>Develop an internationalized website with Drupal’s multilingual tools</li>
+<li>Integrate third-party front-end and back-end libraries with Drupal</li>
+<li>Turn Drupal into a web services provider using REST</li>
+<li>Create a mobile-first responsive Drupal application</li>
+<li>Run SimpleTest and PHPUnit to test Drupal</li>
+<li>Understand the plugin system that powers many of Drupal 8’s new APIs to extend its functionality</li>
+<li>Get to grips with the mechanics of the configuration management system and the ability to import and export site configuration</li>
+</ul>
+											","http://file.allitebooks.com/20160813/Drupal%208%20Development%20Cookbook.pdf","PDF","6.6 MB","http://www.allitebooks.com/wp-content/uploads/2016/08/Drupal-8-Development-Cookbook-400x494.jpg","English","Drupal 8 Development Cookbook",370,"http://www.allitebooks.com/read/index.php?id=23319",2016
+27,"Ric Shreves",18,"1849512760","
+                    <h3>Book Description:</h3>
+						<p>Drupal is an award winning open source Content Management System (CMS). Based on PHP and MySQL, its power and flexibility combined with its exceptional design mean it is one of the most popular choices for creating a CMS website..</p>
+<p>Drupal employs a specialized templating system and supports themes, which allow you to change the look and feel of your system’s front and back-end interfaces..</p>
+<p>Drupal 7 Themes is an ideal introduction to theming with Drupal 7. If you want to create a striking new look for your Drupal 7 website, this book is for you. This book is a revised, updated and expanded edition of Drupal 6 Themes, rewritten specifically for Drupal 7.</p>
+<p>This book will show you techniques and tools to help you improve the look and feel of any Drupal 7-powered website. Starting from the basics of theme setup and configuration, you will learn about the Drupal theming architecture and the PHPTemplate engine, and then move on to modifying existing themes and building new themes from scratch. You will find out about tools to make your theme development easier.</p>
+<p>A practical guide showing you how to create themes for your Drupal 7 site</p>
+<p>What you will learn from this book</p>
+<ul>
+<li>Learn about the Drupal 7 Theming Architecture</li>
+<li>Find and install new themes</li>
+<li>Get the most from Drupal’s theme configuration system</li>
+<li>Create a new theme from scratch</li>
+<li>Master PHPTemplate</li>
+<li>Modify the default templates and styles</li>
+<li>Override the default templates with your own</li>
+<li>Create dynamic styling that responds to the content or the user</li>
+<li>Discover tools that make theming easier and more efficient</li>
+</ul>
+											","http://file.allitebooks.com/20160811/Drupal%207%20Themes.pdf","PDF","7.9 MB","http://www.allitebooks.com/wp-content/uploads/1470/9957ac251448a0d.jpg","English","Drupal 7 Themes",316,"http://www.allitebooks.com/read/index.php?id=23296",2011
+28,"Kristen Pol",18,"1849518181","
+                    <h3>Book Description:</h3>
+						<p>A practical book with plenty of screenshots to guide you through the many features of multilingual Drupal. A demo ecommerce site is provided if you want to practice on a sample site, although you can apply the techniques learnt in the book directly to your site too. Any Drupal users who know the basics of building a Drupal site and are familiar with the Drupal UI, will benefit from this book. No previous knowledge of localization or internationalization is required.</p>
+											","http://file.allitebooks.com/20160605/Drupal%207%20Multilingual%20Sites.pdf","PDF","2.16 MB","http://www.allitebooks.com/wp-content/uploads/2016/06/Drupal-7-Multilingual-Sites.jpg","English","Drupal 7 Multilingual Sites",140,"http://www.allitebooks.com/read/index.php?id=22346",2012
+29,"Vladimir Prelovac",18,"1847193595","
+                    <h3>Book Description:</h3>
+						<p>If you can write WordPress plug-ins, you can make WordPress do just about anything. From making the site easier to administer, to adding the odd tweak or new feature, to completely changing the way your blog works, plug-ins are the method WordPress offers to customize and extend its functionality. This book will show you how to build all sorts of WordPress plug-ins: admin plug-ins, Widgets, plug-ins that alter your post output, present custom “views” of your blog, and more.</p>
+<p>WordPress Plug-in Development (Beginner’s Guide) focuses on teaching you all aspects of modern WordPress development. The book uses real and published WordPress plug-ins and follows their creation from the idea to the finishing touches, in a series of carefully picked, easy-to-follow tutorials. You will discover how to use the WordPress API in all typical situations, from displaying output on the site in the beginning to turning WordPress into a CMS in the last chapter. In Chapters 2 to 7 you will develop six concrete plug-ins and conquer all aspects of WordPress development.</p>
+<p>Each new chapter and each new plug-in introduces different features of WordPress and how to put them to good use, allowing you to gradually advance your knowledge. This book is written as a guide to take your WordPress skills from the very beginning to the level where you are able to completely understand how WordPress works and how you can use it to your advantage.</p>
+<p>What you will learn from this book?</p>
+<ul>
+<li>Get to know the WordPress code base, WordPress’s plug-in architecture, and the plug-in application programming interface (API) and learn how to hack it</li>
+<li>Master the WordPress database and the API – access and manipulate data, handle user roles and permissions, posts, and so on</li>
+<li>Hook into the rest of WordPress using actions and filters</li>
+<li>Change the way your WordPress backend looks by customizing menus, submenus, and the plug-in admin panel</li>
+<li>Integrate AJAX and jQuery into your plug-ins to dynamically generate content</li>
+<li>Hook directly to WordPress edit pages and use AJAX to generate fast searches</li>
+<li>Integrate your plug-in with WordPress panels and the tinyMCE editor</li>
+<li>Access and work with third-party APIs like Flickr</li>
+<li>Implement localization support for users of other languages</li>
+<li>Maintain and manage your plug-in using SVN and publish it to the WordPress Plugin Repository</li>
+<li>Handle security issues and make your plug-ins safer to use</li>
+</ul>
+											","http://file.allitebooks.com/20161110/WordPress%20Plugin%20Development.pdf","PDF","5.7 MB","http://www.allitebooks.com/wp-content/uploads/2016/11/WordPress-Plugin-Development-Beginners-Guide.jpg","English","WordPress Plugin Development, Beginner’s Guide",296,"http://www.allitebooks.com/read/index.php?id=24893",2009
+30,"Todd Tomlinson",18,"1484219694","
+                    <h3>Book Description:</h3>
+						<div>
+<div>
+<p>Learn what Backdrop CMS is and how it fulfills the role of a content management system, along with how to install and configure it. This book teaches how to create and manage content, taxonomy, users, page layouts, and menus to get the best site possible. You’ll also see how to install on shared hosting – which is a focus of the Backdrop CMS team – to make hosting your website affordable.</p>
+<p>Backdrop CMS has a very strong community, and Beginning Backdrop CMS&nbsp;shows you how to leverage Backdrop CMS’s repository of contributed modules and themes to expand the functionality and look of your site, along with how to contribute your own material to the community.</p>
+<p>Beginning Backdrop CMS&nbsp;focuses on the user who is responsible for building, maintaining, and managing an organization’s website and who is interested in Backdrop CMS’s ability to meet their site’s requirements. It covers why you should consider using a content management system when building a new web site.</p>
+<p>By reading this book, you will:</p>
+<ul>
+<li>Understand why you should use Backdrop CMS and the power of the platform.</li>
+<li>Build confidence in your ability to use Backdrop CMS.</li>
+<li>Gain the knowledge necessary to build, deploy, and manage web sites of moderate complexity on Backdrop CMS.</li>
+<li>Understand the process for migrating a Drupal 6 or 7 site to Backdrop CMS.</li>
+</ul>
+</div>
+</div>
+<div>What You Will Learn<p></p>
+</div>
+<div>
+<div>
+<ul>
+<li>How to install a basic Backdrop CMS web site from scratch</li>
+<li>How to create content in your new Backdrop CMS web site</li>
+<li>How to create blocks</li>
+<li>How to create and manage menus and users</li>
+<li>How to create and use layouts when creating pages on your site</li>
+<li>How to create a Backdrop CMS theme</li>
+<li>The basics of a Backdrop CMS module</li>
+</ul>
+</div>
+</div>
+											","http://file.allitebooks.com/20160615/Beginning%20Backdrop%20CMS.pdf","PDF","22.3 MB","http://www.allitebooks.com/wp-content/uploads/1465/8357612180eace9.jpg","English","Beginning Backdrop CMS",288,"http://www.allitebooks.com/read/index.php?id=22549",2016
+31,"Greg Lukosek",19,"1785287591","
+                    <h3>Book Description:</h3>
+						<p>Unity is a cross-platform game engine that is used to develop 2D and 3D video games. Unity 5 is the latest version, released in March 2015, and adds a real-time global illumination to the games, and its powerful new features help to improve a game’s efficiency.</p>
+<p>This book will get you started with programming behaviors in C# so you can create 2D games in Unity. You will begin by installing Unity and learning about its features, followed by creating a C# script. We will then deal with topics such as unity scripting for you to understand how codes work so you can create and use C# variables and methods. Moving forward, you will find out how to create, store, and retrieve data from collection of objects.</p>
+<p>You will also develop an understanding of loops and their use, and you’ll perform object-oriented programming. This will help you to turn your idea into a ready-to-code project and set up a Unity project for production. Finally, you will discover how to create the GameManager class to manage the game play loop, generate game levels, and develop a simple UI for the game.</p>
+<p>By the end of this book, you will have mastered the art of applying C# in Unity.</p>
+<p>Who This Book Is For</p>
+<p>The book is targeted at beginner level Unity developers with no programming experience. If you are a Unity developer and you wish to learn how to write C# scripts and code by creating games, then this book is for you.</p>
+<p>What You Will Learn</p>
+<ul>
+<li>Understand the fundamentals of variables, methods, and code syntax in C#</li>
+<li>Get to know about techniques to turn your game idea into working project</li>
+<li>Use loops and collections efficiently in Unity to reduce the amount of code</li>
+<li>Develop a game using the object-oriented programming principles</li>
+<li>Generate infinite levels for your game</li>
+<li>Create and code a good-looking functional UI system for your game</li>
+<li>Publish and share your game with users</li>
+</ul>
+											","http://file.allitebooks.com/20170716/Learning%20C-%20by%20Developing%20Games%20with%20Unity%205.x,%202nd%20Edition.pdf","PDF","4.8 MB","http://www.allitebooks.com/wp-content/uploads/2017/07/Learning-C-by-Developing-Games-with-Unity-5.x-2nd-Edition-400x493.jpg","English","Learning C# by Developing Games with Unity 5.x, 2nd Edition",230,"http://www.allitebooks.com/read/index.php?id=27797",2016
+32,"Matt Cavanagh",19,"978-1849697828","
+                    <h3>Book Description:</h3>
+						<p>In recent years, electronics have gone from something that only electronic engineers can understand, to a common hobby that is accessible to all. Netduino has grown to be a part of this revolution, providing a development board that is both easy to use, and allows existing .NET developers to build on knowledge they already have.</p>
+<p>Most developers have wild ideas about all the gadgets they would develop to make the world a better (or easier) place, but have no idea how to get beyond blinking an LED. The topics contained go beyond what most books cover, taking an in-depth look at how to use Netduino for practical projects.</p>
+<p>This book starts off by showing you how to do the “hello world” of electronics – fade an LED in and out. It will take you right through all the fundamentals, including how to control a wide range of electronic sensors.</p>
+<p>You will learn how easy it is to automate various parts of your home. You will learn how to open your gate with your smartphone, automatically water your plants, get emailed when someone invades your territory, connect up a keypad to unlock your door, make your own breathalyzer, control your home theatre, and much more!</p>
+<p>What you will learn from this book</p>
+<ul>
+<li>Write some simple code for a Netduino</li>
+<li>Use a microphone to determine the noise level of the room</li>
+<li>Power the sensors and components with external power supplies</li>
+<li>Control existing technology and appliances around your house with transistors and relays</li>
+<li>Link your smartphone to your Netduino with Bluetooth as a controller</li>
+<li>Determine alcohol on your breath</li>
+<li>Use servos to control physical objects</li>
+<li>Use a matrix keypad to secure your house and much more</li>
+</ul>
+											","http://file.allitebooks.com/20170625/Netduino%20Home%20Automation%20Projects.pdf","PDF","1.9 MB","http://www.allitebooks.com/wp-content/uploads/2017/06/Netduino-Home-Automation-Projects-400x493.jpg","English","Netduino Home Automation Projects",108,"http://www.allitebooks.com/read/index.php?id=27680",2013
+33,"Arul Kumaravel",19,"0470173939","
+                    <h3>Book Description:</h3>
+						<p>Providing you with the programmer?s approach to understanding Windows PowerShell, this book introduces the concepts, components, and development techniques for building software packages that leverage the power of PowerShell. The author team of PowerShell experts shows you how PowerShell makes writing code easy by providing a runtime engine with its own parser, plus you?ll discover that with PowerShell, all of the .NET Framework objects become accessible via scripting, making PowerShell a very powerful addition to your toolbox and a popular choice for future development.</p>
+											","http://file.allitebooks.com/20170327/Professional%20Windows%20PowerShell%20Programming.pdf","PDF","4.9 MB","http://www.allitebooks.com/wp-content/uploads/1490/6458d9bbd8ab45f.jpg","English","Professional Windows PowerShell Programming",339,"http://www.allitebooks.com/read/index.php?id=27048",2008
+34,"James Bender",19,"047064320X","
+                    <h3>Book Description:</h3>
+						<p>Hands-on guidance to creating great test-driven development practice</p>
+<p>Test-driven development (TDD) practice helps developers recognize a well-designed application, and encourages writing a test before writing the functionality that needs to be implemented. This hands-on guide provides invaluable insight for creating successful test-driven development processes. With source code and examples featured in both C# and .NET, the book walks you through the TDD methodology and shows how it is applied to a real-world application. You’ll witness the application built from scratch and details each step that is involved in the development, as well as any problems that were encountered and the solutions that were applied.</p>
+<ul>
+<li>Clarifies the motivation behind test-driven development (TDD), what it is, and how it works</li>
+<li>Reviews the various steps involved in developing an application and the testing that is involved prior to implementing the functionality</li>
+<li>Discusses unit testing and refactoring</li>
+</ul>
+<p>Professional Test-Driven Development with C# shows you how to create great TDD processes right away.</p>
+											","http://file.allitebooks.com/20170327/Professional%20Test%20Driven%20Development%20with%20C-.pdf","PDF","47.9 MB","http://www.allitebooks.com/wp-content/uploads/2017/03/Professional-Test-Driven-Development-with-C.jpg","English","Professional Test Driven Development with C#",361,"http://www.allitebooks.com/read/index.php?id=27050",2011
+37,"Mathieu Nayrolles",19,"1849691401","
+                    <h3>Book Description:</h3>
+						<p>Multiplatform applications have taken the development world by storm. This has revolutionized the selection of the right tools for the efficient development and deployment of applications. Xamarin studio is emerging as the preferred choice among .NET/C# developers. It enables them to design cross-platform applications using their favorite language and IDE. Xamarin studio is supported by the Mac OS and Windows platforms, and you can develop your own applications for iOS, Windows, or Android with its help.</p>
+<p>This book takes you through all the stages of application development, right from getting started with Xamarin and developing a GUI to putting up your application on the store. The recipes will help you in acquiring sufficient knowledge to go about creating applications.</p>
+<p>Starting with introducing Xamarin studio, its underlying technologies, and the Android ecosystem, the book goes on to cover the graphical aspects of creating Android applications. Moving on, you will learn more about data management with Android services. This is followed by techniques on how to interact with the Android OS and the phone’s hardware, before finally concluding with mobile advertisements and Google Play. By the end of this book, you will have discovered all the specialties related to developing Android application with Xamarin Studio.</p>
+<p>Who This Book Is For</p>
+<p>If you have already developed an Android applications with Java and you now intend to use C# and Xamarin Studio’s capabilities, or if you have never taken the dive into mobiles, then this book is for you. It would be helpful to have some C# experience so you follow the recipes in this book, though knowledge of Android is not required.</p>
+<p>What You Will Learn</p>
+<ul>
+<li>Build a GUI for your Android applications</li>
+<li>Explore Android activities and understand configuration changes</li>
+<li>Manage multiscreens, icons, and multimedia in your applications</li>
+<li>Start and bind Android services and create notifications</li>
+<li>Create beautiful applications using the camera and animations</li>
+<li>Effectively couple your phone’s hardware with applications</li>
+<li>Integrate advertisements and select the right advertisement providers for your applications</li>
+</ul>
+											","http://file.allitebooks.com/20170313/Xamarin%20Studio%20for%20Android%20Programming.pdf","PDF","3.4 MB","http://www.allitebooks.com/wp-content/uploads/2017/03/Xamarin-Studio-for-Android-Programming-400x493.jpg","English","Xamarin Studio for Android Programming: A C# Cookbook",298,"http://www.allitebooks.com/read/index.php?id=26867",2015
+38,"Grant Palmer",19,"1430210885","
+                    <h3>Book Description:</h3>
+						<p>Updated with the changes to C#, Beginning C# 2008 Objects: From Concepts to Code introduces complete beginners to C# coding practice with a solid methodological foundation written by two critically–acclaimed experts in the field, already authors of the best–selling Beginning C# Objects.</p>
+<p>By building from first principles in object–oriented terminology, then advancing through application design with Unified Modeling Language (UML) into practical examples, Beginning C# 2008 Objects: From Concepts to Code provides a foundational guide written from the perspective of two experienced, working authorities on C#.</p>
+<p>Working coders will benefit from the object–oriented cast of the book and its section on use–case modeling. This is the book to read if you want to deepen and advance your existing professional development in C# with an eye towards advancing out of pure coding work.</p>
+<p>For the reader wishing to “simply learn C#”, this book will provide exactly that. In addition to listing code and syntax, Beginning C# 2008 Objects: From Concepts to Code also walks you through the design and architecting of a functioning C# application, showing the “why” and the “how” of the development decisions that go into professional C# coding.</p>
+											","http://file.allitebooks.com/20170226/Beginning%20C%202008%20Objects.pdf","PDF","6.8 MB","http://www.allitebooks.com/wp-content/uploads/2017/02/Beginning-C-2008-Objects.jpg","English","Beginning C# 2008 Objects",680,"http://www.allitebooks.com/read/index.php?id=26648",2008
+39,"Patrick Felicia",19,"1520118171","
+                    <h3>Book Description:</h3>
+						<p>In this book, the first in the “Beginner’s Guide” series, you will create a simple 2D platform game, create challenging gameplay and learn techniques to code more in less time.</p>
+<p>This book can be read as a standalone (you don’t need to have read the previous books in the series, although it may help) and focuses on: scoring system and lives (e.g., keeping track of the score across the game), user interface (menus and in-game information for 2D games), character movement (e.g., walk, run, jump, crouch, etc.), character interaction (i.e., collect objects or avoid other objects), playful game-mechanics (e.g., bouncing objects, moving platforms, time-limited level, collapsing bridges, etc.) and improving C# programing skills (e.g., important and useful functions and principles that you can reuse in your own games).</p>
+<p>The main idea behind this book is to save you some headaches when you need to create your 2D platformer and to help you to find the time to actually code your game, by explaining simple and effective ways and best coding practices that you can use easily to create more code (and games) in less time with less stress and more fun.</p>
+											","http://file.allitebooks.com/20170125/A%20Beginner's%20Guide%20to%202D%20Platform%20Games%20with%20Unity.pdf","PDF","2.2 MB","http://www.allitebooks.com/wp-content/uploads/2017/01/A-Beginners-Guide-to-2D-Platform-Games-with-Unity.jpg","English","A Beginner’s Guide to 2D Platform Games with Unity",211,"http://www.allitebooks.com/read/index.php?id=26291",2016
+40,"Dirk Strauss",19,"1786467305","
+                    <h3>Book Description:</h3>
+						<p>During your application development workflow, there is always a moment when you need to get out of a tight spot. Through a recipe-based approach, this book will help you overcome common programming problems and get your applications ready to face the modern world.</p>
+<p>We start with C# 6, giving you hands-on experience with the new language features. Next, we work through the tasks that you perform on a daily basis such as working with strings, generics, and lots more. Gradually, we move on to more advanced topics such as the concept of object-oriented programming, asynchronous programming, reactive extensions, and code contracts.</p>
+<p>You will learn responsive high performance programming in C# and how to create applications with Azure. Next, we will review the choices available when choosing a source control solution. At the end of the book, we will show you how to create secure and robust code, and will help you ramp up your skills when using the new version of C# 6 and Visual Studio</p>
+<p>What You Will Learn</p>
+<ul>
+<li>Write better and less code to achieve the same result as in previous versions of C#.</li>
+<li>Generate tests from the Code Contracts for mission critical methods.</li>
+<li>Integrate code in Visual Studio with GitHub.</li>
+<li>Create a web application in Azure.</li>
+<li>Design and build a microservice architecture</li>
+<li>Demystify the Rx library using Reactive extensions</li>
+<li>Write high performing codes in C# and understanding multi-threading.</li>
+<li>Security and Debugging.</li>
+<li>Implement Code Contracts on code in Visual Studio.</li>
+</ul>
+											","http://file.allitebooks.com/20170119/C-%20Programming%20Cookbook.pdf","PDF","34.3 MB","http://www.allitebooks.com/wp-content/uploads/2017/01/C-Programming-Cookbook-400x493.jpg","English","C# Programming Cookbook",476,"http://www.allitebooks.com/read/index.php?id=26235",2016
+41,"Adam Freeman",20,"1484229150","
+                    <h3>Book Description:</h3>
+						<div>Discover Angular, the leading client-side web framework, from the point of view of an ASP.NET Core MVC developer. Best-selling author&nbsp;Adam Freeman&nbsp;brings these two key technologies together and explains how to use ASP.NET Core MVC to provide back-end services for Angular applications. This fast-paced, practical guide starts from the nuts and bolt and gives you the knowledge you need to combine Angular (from version 2.0 up) and ASP.NET Core MVC in your projects.<p></p>
+</div>
+<div></div>
+<div>What You’ll Learn<p></p>
+</div>
+<div>
+<ul>
+<li>Gain a solid understanding of how ASP.NET Core MVC and Angular can work together</li>
+<li>Learn how to use Visual Studio 2017 to develop Angular/ASP.NET Core MVC projects</li>
+<li>Learn how create ASP.NET Core RESTful web services to support Angular applications</li>
+<li>Learn how to expose data from Entity Framework Core to Angular applications</li>
+<li>Learn how to use ASP.NET Core Identity to provide security services to Angular applications</li>
+</ul>
+</div>
+<div>Each topic is covered clearly and concisely and is packed with the essential details you need to learn to be truly effective.<p></p>
+</div>
+<div></div>
+<div>Who This Book Is For<p></p>
+</div>
+<div></div>
+<div>This book is for developers with a knowledge of ASP.NET Core MVC who are introducing Angular into their projects.</div>
+											","http://file.allitebooks.com/20170726/Essential%20Angular%20for%20ASP.NET%20Core%20MVC.pdf","PDF","17.9 MB","http://www.allitebooks.com/wp-content/uploads/2017/07/Essential-Angular-for-ASP.NET-Core-MVC.jpg","English","Essential Angular for ASP.NET Core MVC",297,"http://www.allitebooks.com/read/index.php?id=27864",2017
+42,"Shirish Chavan",20,"1484229665","
+                    <h3>Book Description:</h3>
+						<div>
+<p>Solve your C programming problems with practical and informative recipes. This book covers various aspects of C programming including the fundamentals of C, operators and expressions, control statements, recursion, and user-defined functions. Each chapter contains a series of recipes that you can easily reference to quickly find the answers you are looking for.</p>
+<p>C Recipes&nbsp;also contains recipes and solutions for problems in memory management, arrays, standard input and output, structures and unions, pointers, self-referential structures, data files, pre-processor directives, and library functions.</p>
+</div>
+<div></div>
+<div>What You Will Learn<p></p>
+</div>
+<div>
+<div>
+<ul>
+<li>Master operators and expressions</li>
+<li>Write user-defined functions</li>
+<li>Work with structures and unions</li>
+<li>Use pointers</li>
+<li>Define self referential structures</li>
+<li>Leverage library functions</li>
+</ul>
+<div></div>
+</div>
+<div>Who This Book Is For<p></p>
+</div>
+<div></div>
+<div>Those with some experience in C programming.</div>
+</div>
+											","http://file.allitebooks.com/20170729/C%20Recipes.pdf","PDF","6.1 MB","http://www.allitebooks.com/wp-content/uploads/2017/07/C-Recipes.jpg","English","C Recipes",446,"http://www.allitebooks.com/read/index.php?id=27890",2017
+43,"Thomas Finnegan",20,"1849692017","
+                    <h3>Book Description:</h3>
+						<p>Powerful and continuing to grow, the mobile market has never been bigger and more demanding of great games. Android continues to prove itself as a strong contender in this challenging market. With Unity 3D, great games can be made for Android quickly and easily. With its great deployment system, the Android platform is now only one click away.</p>
+<p>Unity Android Game Development by Example Beginner’s Guide dives straight into making real, fully-functional games, with hands-on examples and step-by-step instructions to give you a firm grounding in Unity 3D and Android. Everything necessary for creating a complete gaming experience is covered and detailed throughout the course of this book.</p>
+<p>Using clear and practical examples that progressively build upon each other, this book guides you through the process of creating games in Unity for Android.</p>
+<p>Start by learning about all the great features that Unity and Android have to offer. Next, create a Tic-Tac-Toe game while learning all about interfaces. After that, learn about meshes, materials, and animations with the creation of a tank battle game. You will then learn how to expand your game’s environment with the addition of shadows and a skybox. Adding on this, you will also learn how to expand the tank battle by creating enemies and using path finding to chase the player. Next, explore touch and tilt controls with the creation of a space fighter game. Then, learn about physics while recreating the most popular mobile game on the market. You will then expand the space fighter game with the addition of all the special effects that make a game great. Finally, complete your experience by learning the optimization techniques required to keep your games running smoothly.</p>
+<p>While Unity is available for both Mac and Windows, the book is presented working from a Windows environment. Programming in Unity is possible in C#, JavaScript, and Boo. This book will be working in C# and the final projects will be provided in C# and JavaScript.</p>
+<p>From nothing to a fully-featured mobile game, Unity Android Game Development by Example Beginner’s Guide takes you through everything it takes to create your next game for the Android platform.</p>
+<p>What you will learn from this book</p>
+<ul>
+<li>Set up a development environment to work with both Unity and Android</li>
+<li>Import and work with the basic building blocks of a game: meshes, materials, and animations</li>
+<li>Utilize particles and sound effects to provide feedback to the player</li>
+<li>Adjust camera effects and game logic to create 2D games</li>
+<li>Interface with touch and tilt inputs to create custom control systems</li>
+<li>Set up path finding to create intelligently moving characters</li>
+<li>Successfully create custom graphical interfaces</li>
+<li>Set up and utilize physics to create a mobile game classic</li>
+<li>Create dynamically lit scenes using lightmaps</li>
+<li>Understand the best choices for optimizing a game for the mobile platform</li>
+</ul>
+											","http://file.allitebooks.com/20170522/Unity%20Android%20Game%20Development%20by%20Example%20Beginner's%20Guide.pdf","PDF","20.5 MB","http://www.allitebooks.com/wp-content/uploads/2017/05/Unity-Android-Game-Development-by-Example-Beginners-Guide-400x493.jpg","English","Unity Android Game Development by Example Beginner’s Guide",320,"http://www.allitebooks.com/read/index.php?id=27470",2013
+44,"Mindaugas Pocius",20,"1785281690","
+                    <h3>Book Description:</h3>
+						<p>Microsoft Dynamics AX 2012 R3 Development Cookbook will help you manage your company’s or customer’s ERP information and operations efficiently. Beginning with exploring data manipulation concepts in Dynamics AX, you will build scripts to assist data migration and organize data in AX forms. You will learn how to create custom lookups using AOT forms and generate them dynamically. After this, you’ll learn how to enhance your application by using advanced form controls, and integrate your system with other external systems. You will also learn how to enhance your user interface using various Dynamics AX UI elements.</p>
+<p>This book will help you look at application development from a business process perspective, and develop enhanced ERP solutions by learning and implementing the best practices and techniques.</p>
+<p>What You Will Learn</p>
+<ul>
+<li>Explore data manipulation concepts in Dynamics AX</li>
+<li>Build scripts to assist data migration processes</li>
+<li>Organize data in Dynamics AX forms</li>
+<li>Make custom lookups using AOT forms and dynamically generate them from the X++ code</li>
+<li>Create a custom electronic payment format and process a vendor payment using it</li>
+<li>Integrate your application with Microsoft Office Suite and with external systems using various approaches</li>
+<li>Export and import business data for further distribution or analysis</li>
+<li>Improve your development efficiency and experience</li>
+</ul>
+											","http://file.allitebooks.com/20170415/Microsoft%20Dynamics%20AX%202012%20R3%20Development%20Cookbook.pdf","PDF","8.6 MB","http://www.allitebooks.com/wp-content/uploads/2017/04/Microsoft-Dynamics-AX-2012-R3-Development-Cookbook-400x493.jpg","English","Microsoft Dynamics AX 2012 R3 Development Cookbook",420,"http://www.allitebooks.com/read/index.php?id=27226",2015
+45,"Dale Green",20,"1785886711","
+                    <h3>Book Description:</h3>
+						<p>Procedural generation is a growing trend in game development. It allows developers to create games that are bigger and more dynamic, giving the games a higher level of replayability. Procedural generation isn’t just one technique, it’s a collection of techniques and approaches that are used together to create dynamic systems and objects. C++ is the industry-standard programming language to write computer games. It’s at the heart of most engines, and is incredibly powerful. SFML is an easy-to-use, cross-platform, and open-source multimedia library. Access to computer hardware is broken into succinct modules, making it a great choice if you want to develop cross-platform games with ease.</p>
+<p>Using C++ and SFML technologies, this book will guide you through the techniques and approaches used to generate content procedurally within game development.</p>
+<p>Throughout the course of this book, we’ll look at examples of these technologies, starting with setting up a roguelike project using the C++ template. We’ll then move on to using RNG with C++ data types and randomly scattering objects within a game map. We will create simple console examples to implement in a real game by creating unique and randomised game items, dynamic sprites, and effects, and procedurally generating game events. Then we will walk you through generating random game maps. At the end, we will have a retrospective look at the project.</p>
+<p>By the end of the book, not only will you have a solid understanding of procedural generation, but you’ll also have a working roguelike game that you will have extended using the examples provided.</p>
+											","http://file.allitebooks.com/20170623/Procedural%20Content%20Generation%20for%20C++%20Game%20Development.pdf","PDF","3.4 MB","http://www.allitebooks.com/wp-content/uploads/2017/06/Procedural-Content-Generation-for-C-Game-Development-400x493.jpg","English","Procedural Content Generation for C++ Game Development",304,"http://www.allitebooks.com/read/index.php?id=27648",304
+46,"Nick Harrison",20,"1484222105","
+                    <h3>Book Description:</h3>
+						<div>Learn how&nbsp;Roslyn’s new code generation capability&nbsp;will let you write software that is more concise, runs faster, and is easier to maintain. You will learn from real-world business applications&nbsp;to create better software by letting the computer write its own code based on your business logic already defined in lookup tables.</div>
+<div>
+<div></div>
+<div>
+<div>Code Generation with Rosyln is the first book to cover this new capability.&nbsp; You will learn how these techniques can&nbsp;be used to simplify systems integration so that if one system already defines business logic through lookup tables, you can integrate a new system and share business logic by allowing the new system to write its own business logic based on already existing table-based business logic.</div>
+<div></div>
+<div></div>
+<p>One of the many benefits you will discover is that Roslyn uses an innovative approach to compiler design, opening up the inner workings of the compiler process. You will&nbsp;learn how to see the syntax tree that Roslyn is building as it compiles your code. Additionally,&nbsp;you&nbsp;will learn to&nbsp;feed it your own syntax tree that&nbsp;you create on the fly.</p>
+</div>
+<div></div>
+<div></div>
+<div>
+<div>What You Will Learn:</div>
+<div></div>
+<div>• Structure logic to be stored in database design</div>
+<div>• Build complex conditional logic based on lookup data in the database</div>
+<p>• Compile code that you generate programmatically</p>
+<div>• Discover generated code and run it dynamically to implement new business logic</div>
+<div>• Debug problems in generated code</div>
+<div>• Deploy and access generated code</div>
+</div>
+<div></div>
+<div>Who This Book Is For:</div>
+<div></div>
+<div>Back end developers in very dynamic fast-paced business environments. &nbsp; Developers focused on integrating different systems across an enterprise should also find this information useful.</div>
+</div>
+											","http://file.allitebooks.com/20170301/Code%20Generation%20with%20Roslyn.pdf","PDF","1.6 MB","http://www.allitebooks.com/wp-content/uploads/2017/03/Code-Generation-with-Roslyn.jpg","English","Code Generation with Roslyn",105,"http://www.allitebooks.com/read/index.php?id=26687",2017
+47,"Nazmus Saquib",20,"1783282991","
+                    <h3>Book Description:</h3>
+						<p>Mathematica, developed and maintained by Wolfram Research, is a trusted and popular tool used to analyze and visualize data.</p>
+<p>This book begins by introducing you to the Mathematica environment and the basics of dataset loading and cleaning. You will then learn about the different kinds of widely used datasets so that you are comfortable with the later chapters. Then, in the subsequent chapters, you will learn about time series, scientific, statistical, information, and map visualizations. Each topic is demonstrated by walking you through an example project. Along the way, the dynamic interactivity and graphics packages are also introduced. Finally, the book ends with a brief discussion of color maps and aesthetics issues.</p>
+<p>Using this book, you will learn how to build visualizations from scratch, quickly and efficiently.</p>
+<p>What You Will Learn</p>
+<ul>
+<li>Understand some widely used datasets in science, engineering, finance, statistics, and business</li>
+<li>Write Mathematica programs to create stunning, interactive, and beautiful visualizations</li>
+<li>Create time series visualizations in different scenarios to find underlying patterns in time series data</li>
+<li>Build a protein molecule visualization tool and create basic isocontour and isosurface visualizations in Mathematica</li>
+<li>Create statistical plots and charts and learn the basics of visualizing high dimensional datasets</li>
+<li>Develop a word frequency visualization tool</li>
+<li>Build graph network visualizations and interactive chord charts</li>
+</ul>
+											","http://file.allitebooks.com/20170409/Mathematica%20Data%20Visualization.pdf","PDF","4.1 MB","http://www.allitebooks.com/wp-content/uploads/2017/04/Mathematica-Data-Visualization-400x493.jpg","English","Mathematica Data Visualization",142,"http://www.allitebooks.com/read/index.php?id=27178",2014
+48,"John P. Doran",20,"1784398160","
+                    <h3>Book Description:</h3>
+						<p>Unreal Engine is powerful tool with rich functionalities to create games. It equips you with the skills to easily build mobile and desktop games from scratch without worrying about which platform they will run on. You can focus on the individual complexities of game development such as animation and rendering.</p>
+<p>This book takes you on a journey to jumpstart your game design efforts. You will learn various aspects of the Unreal engine commonly encountered with practical examples of how it can be used, with numerous references for further study. You will start by getting acquainted with Unreal Engine 4 and building out levels for your game. This will be followed by recipes to help you create environments, place meshes, and implement your characters. You will then learn to work with lights, camera, and shadows to include special effects in your game. Moving on, you’ll learn Blueprint scripting and C++ programming to enable you to achieve trigger effects and add simple functionalities. By the end of the book, you will see how to create a healthbar and main menu, and then get your game ready to be deployed and published.</p>
+<p>What You Will Learn</p>
+<ul>
+<li>Discover editor functionalities for an in-depth insight into game design</li>
+<li>Develop environments using terrain for outdoor areas and a workflow for interiors as well using brushes</li>
+<li>Design various kinds of materials with unique features, such as mirrors and glows</li>
+<li>Explore the various ways that lighting can be used in the engine</li>
+<li>Build various level effects using Blueprints, Unreal’s visual scripting system</li>
+<li>Set up a development environment and develop custom functionality with C++ for your games</li>
+<li>Create healthbars and main menus with animations using Slate, Unreal’s UI solution, through the UMG Editor</li>
+<li>Package and create an installer to get your project out into the world</li>
+</ul>
+											","http://file.allitebooks.com/20170204/Unreal%20Engine%20Game%20Development%20Cookbook.pdf","PDF","16.9 MB","http://www.allitebooks.com/wp-content/uploads/2017/02/Unreal-Engine-Game-Development-Cookbook-400x493.jpg","English","Unreal Engine Game Development Cookbook",326,"http://www.allitebooks.com/read/index.php?id=26400",2015
+49,"Ray Lischner",20,"1590597494","
+                    <h3>Book Description:</h3>
+						<p>This is a book about learning by doing and is aimed at programmers familiar with programming, but not C++. The key exercises are not simply listed at the end of the chapter, but are integrated into the main text. Readers work hands-on throughout the book. Each lesson poses numerous questions, asking readers to write answers directly in the book. The book includes answers to all questions, so readers can check their work. These exercises are not simple cookbook-style recipes (e.g., “Write a program to do xyz”). Instead, they are explorations―structured labs that guide readers through a series of steps to highlight specific features of C++.</p>
+											","http://file.allitebooks.com/20170130/Exploring%20C++.pdf","PDF","12.8 MB","http://www.allitebooks.com/wp-content/uploads/2017/01/Exploring-C-.jpg","English","Exploring C++",704,"http://www.allitebooks.com/read/index.php?id=26335",2008
+50,"Joanna Lee",20,"1784398152","
+                    <h3>Book Description:</h3>
+						<p>Unreal Engine 4 is a powerful game development engine that provides rich functionalities to create 2D and 3D games across multiple platforms. Many people know what a game is and they play games every day, but how many of them know how to create a game? Unreal Engine technology powers hundreds of games, and thousands of individuals have built careers and companies around skills developed using this engine.</p>
+<p>Learning Unreal Engine 4 Game Development starts with small, simple game ideas and playable projects that you can actually finish. The book first teaches you the basics of using Unreal Engine to create a simple game level. Then, you’ll learn how to add details such as actors, animation, effects, and so on to the game. The complexity will increase over the chapters and the examples chosen will help you learn a wide variety of game development techniques. This book aims to equip you with the confidence and skills to design and build your own games using Unreal Engine 4. By the end of this book, you’ll have learnt about the entire Unreal suite and know how to successfully create fun, simple games.</p>
+<p>What you will learn</p>
+<ul>
+<li>Learn what a game engine is, the history of Unreal Engine, and how game studios create games</li>
+<li>Explore the Unreal Engine 4 editor controls and learn how to use the editor to create a room in a game level</li>
+<li>Understand the basic structures of objects in a game, such as the differences between BSP and static meshes</li>
+<li>Make objects interactive using level blueprints</li>
+<li>Learn more about computer graphics rendering; how materials and light are rendered in your game</li>
+<li>Get acquainted with the Material Editor to create materials and use different types of lights in the game levels</li>
+<li>Utilize the various editors, tools, and features such as UI, the particle system, audio, terrain manipulation, and cinematics in Unreal Engine 4 to create game levels</li>
+</ul>
+											","http://file.allitebooks.com/20170204/Learning%20Unreal%20Engine%20Game%20Development.pdf","PDF","18.7 MB","http://www.allitebooks.com/wp-content/uploads/2017/02/Learning-Unreal-Engine-Game-Development-400x493.jpg","English","Learning Unreal Engine Game Development",468,"http://www.allitebooks.com/read/index.php?id=26404",2016

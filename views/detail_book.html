@@ -1,0 +1,63 @@
+{% include './layout/header.html' %}
+
+<div id="content">
+{% include './layout/side-content.html' %}
+
+    <div id="main-content">
+        {% for book in detail %}
+        <article id="post-28041" class="post-list clearfix">
+            <header class="entry-header">
+                <h1 class="single-title">{{ book.name }}</h1>
+                <!-- END .entry-title -->
+                <div class="entry-meta clearfix">
+                    <div class="entry-body-thumbnail hover-thumb">
+                        <a href="/book/{{ book.name_book | lower |replace(' ', '-') |  replace(',', '') | replace('#', '-sharp') }}">
+                            <img src="{{ book.images }}" alt="{{ book.name_book }}">		                        
+                        </a>
+                    </div>
+                    <!-- END .entry-thumbnail -->
+                    <div class="book-detail">
+                        <dl>
+                            <dt>Author: </dt>
+                            <dd>
+                                    {% for item2 in book.author %}
+                                    <a href='/{{ item2 }}'>{{item2}}</a>
+                                    {% endfor %}
+                            </dd>
+                            <dt>ISBN-10:</dt>
+                            <dd> {{ book.isbn }}</dd>
+                            <dt>Year:</dt>
+                            <dd> {{ book.year }}</dd>
+                            <dt>Pages:</dt>
+                            <dd> {{ book.pages }}</dd>
+                            <dt>Language:</dt>
+                            <dd> {{ book.language }}</dd>
+                            <dt>File size:</dt>
+                            <dd> {{ book.file_size }} MB</dd>
+                            <dt>File format:</dt>
+                            <dd> {{ book.file_format }}</dd>
+                            <dt>Category:</dt>
+                            <dd>
+                                <a href="/category/{{ book.name_category | lower | replace(" ", "-") }}">{{ book.name_category }}</a>
+                            </dd>
+                        </dl>
+                    </div>
+                </div>
+                <!-- END .entry-meta -->
+            </header>
+            <div class="entry-content">
+                <!-- <h3>Book Description:</h3> -->
+                <p> {{ book.description | safe }}</p>
+            </div>
+            <div class="_link">
+                    {% if login %}
+                        <p><a href="/download/{{book.id}}">Download</a></p>
+                    {% else %}
+                    <a href="#">Ban phai dang nhap de thay link</a>
+                    {% endif %}
+
+            </div>
+        </article>
+        {% endfor %}
+    </div>
+</div>

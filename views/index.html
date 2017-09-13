@@ -1,0 +1,61 @@
+
+    {% include './layout/header.html' %}
+
+<div id="content">
+    {% include './layout/side-content.html' %}
+
+    <div id="main-content">
+        {% for book in data.home %}
+            <article id="post-28041" class="post-list clearfix">
+                <div class="entry-thumbnail hover-thumb">
+                    <a href="/book/{{ book.name | lower |replace(" ", "-") |  replace(",", "") | replace("#", "-sharp") }}" rel="bookmark">
+                        <img width="398" height="499" src="{{ book.images }}" alt="{{ book.name }}">
+                    </a>
+                </div>
+                <!-- END .entry-thumbnail -->
+                <div class="entry-body">
+                    <header class="entry-header">
+                        <h2 class="entry-title"><a href="/book/{{ book.name | lower |replace(" ", "-") |  replace(",", "") | replace("#", "-sharp") }}" rel="bookmark">{{ book.name }}</a></h2>
+                        {% for item2 in book.author %}
+                        <a href='/{{ item2 }}'>{{item2}}</a>
+                        {% endfor %}
+                    </header>
+                    <!-- END .entry-header -->
+                    <div class="entry-summary">
+                        {{ book.description | truncate(300) | safe }}
+                    </div>
+                    <!-- END .entry-summary -->
+                </div>
+                <!-- END .entry-body -->
+            </article>
+        {% endfor %}
+    </div>
+    <div class="pagination clearfix">
+        {% if(data.pagination.total_page >1) %}
+        <ul class="pagination">
+            {% if data.pagination.page_curent >1 %}
+            <li><a href="/page/1">&laquo;</a></li>
+            {% endif%}
+            {% set i =1 %}
+            {% if i!==1 %}
+            <li class="disable"><a href="#">...</a></li>
+            {% endif%}
+            {% for i in range(1,data.pagination.total_page) -%}
+            {% if(data.pagination.page_curent ==i) %}
+            <li class="active"><span>{{i}}<span class="sr-only">(current)</span></span></li>
+            {% elif (i == (+data.pagination.page_curent +4)) %}
+            <li class="disable"><a href="#">...</a></li>
+            {% else %}
+            <li><a href="/page/{{i}}">{{i}}</a></li>
+            {% endif %}
+            {%- endfor %}
+            {% if(data.pagination.page_curent !== data.pagination.total_page) %}
+            <li><a href="/page/{{data.pagination.page_curent+1}}">&raquo;</a></li>
+            {% endif %}
+
+        </ul>
+        {% endif%}
+    </div>
+</div>
+<script src="https://code.jquery.com/jquery-3.2.1.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>

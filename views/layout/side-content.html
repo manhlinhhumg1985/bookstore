@@ -1,0 +1,9 @@
+{% block side_content %}
+<div id="side-content">
+    <ul id="menu-categories" class="list-categories clearfix">
+        {% for item in data.category_book %}
+            <li><a href="/category/{{  item.name | lower | replace(' ', '-') }}">{{ item.name }}</a></li>
+        {% endfor %}    
+    </ul>
+</div>
+{% endblock %}

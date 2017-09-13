@@ -1,0 +1,38 @@
+ {% include './layout/header.html' %}
+
+<div id="content">
+    {% include './layout/side-content.html' %}
+
+    <div id="main-content">
+        {% for book in detail %}
+        <article id="post-28041" class="post-list clearfix">
+            <div class="entry-thumbnail hover-thumb">
+                <a href="/book/{{ book.name | lower |replace(' ', '-') |  replace(',', '') | replace('#', '-sharp') }}" rel="bookmark">
+                    <img width="398" height="499" src="{{ book.images }}" alt="{{ book.name_book }}">		
+                </a>
+            </div>
+            <!-- END .entry-thumbnail -->
+            <div class="entry-body">
+                <header class="entry-header">
+                    <h2 class="entry-title"><a href="/book/{{ book.name_book | lower |replace(' ', '-') |  replace(',', '') | replace('#', '-sharp') }}" rel="bookmark">{{ book.name_book }}</a></h2>
+                    <!-- END .entry-title -->
+                    <div class="entry-meta">
+                        <span class="author vcard">
+                                <h5 class="entry-author">By: <a href="/author/{{ book.author | lower | replace(' ', '-') }}" rel="tag"><b>{{ book.author }}</b></a></h5>
+                            </span>
+                    </div>
+                    <!-- END .entry-meta -->
+                </header>
+                <!-- END .entry-header -->
+                <div class="entry-summary">
+                    {{ book.description | truncate(300) | safe }}
+                </div>
+                <!-- END .entry-summary -->
+            </div>
+            <!-- END .entry-body -->
+        </article>
+        {% endfor %}
+    </div>
+</div>
+<script src="https://code.jquery.com/jquery-3.2.1.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
